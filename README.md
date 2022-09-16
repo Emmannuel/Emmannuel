@@ -1,7 +1,7 @@
 ### Hola Gente 👋
 
-![Check Out My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolollllo&show_icons=true&theme=dark)
-[![Check Out My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieGrimwood)](https://github.com/anuraghazra/github-readme-stats)
+![Check Out My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmannuel&show_icons=true&theme=dark)
+[![Check Out My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmannuel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
